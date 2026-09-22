@@ -1,0 +1,16 @@
+S NO.,ROLL NO.,NAME,AGE,EMAIL ID,SUBJECT,MARKS
+1,101,RIYA,20,riya@gmail.com,PYTHON,NONE
+2,102,RAJU,18,raju@gmail.com,JAVA,56
+3,103,NONE,16,swati@gmail.com,HINDI,80
+4,104,KINJAL,NONE,kinjal@gmail.com,ENGLISH,70
+5,105,RAHUL,15,rahul@gmail.com,MATHS,55
+6,NONE,NONE,17,NONE,SCIENCE,NONE
+7,107,JAYA,18,jaya@gmail.com,HINDI,72
+8,108,NIKKU,19,nikkugmail.com,ENGLISH,61
+9,109,HANSU,20,hansu@gmail.com,SCIENCE,40
+10,110,NONE,21,vaishu@gmail.com,COMPUTER,33
+11,111,SIYA,22,siya@gmail.com,JAVA,NONE
+12,112,JUHI,17,juhi@gmail.com,NONE,68
+13,NONE,PARI,15,pari@gmail.com,ENGLISH,77
+14,114,YASH,16,yash,SCIENCE,79
+15,115,RAKHI,17,rakhi@gmail.com,PYTHON,82
